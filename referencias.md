@@ -1,0 +1,13 @@
+# Referências
+
+## Site 1: [hungryman - https://hungryman.com/]
+- O que copiar: tipografia marcante no hero, vídeo de apresentação em background
+- O que NÃO copiar: menus laterais complexos
+
+## Site 2: [nome e link]
+- O que copiar: ...
+- O que NÃO copiar: ...
+
+## Site 3: [nome e link]
+- O que copiar: ...
+- O que NÃO copiar: ...
